@@ -1,0 +1,130 @@
+AcornPowder;;Mill;;;0;40;3;5;2;5;#VALUE!;200;Milling;3;1;;;Acorn,4;;;;2;;AcornPowder;Powdered acorn.;1;;Food;Ingredients;20
+AgaveLeaves;"Greens,1;Raw Food,1";;;;0;200;3;1;2;2;#VALUE!;10;;;;;;;;;;;Desert;;The succulent leaves of the agave plant can be cooked to make a nice meal.;1;;Food;Produce;
+AmanitaMushrooms;Fungus,1;;;;0;-200;0;0;0;0;#VALUE!;10;;;;;;;;;;;Wetland;;A potentially poisonous mushroom. It might not be wise to eat it raw, but it can be detoxified when prepared properly by a chef. Eat at your own risk!;1;;Food;Produce;
+BakedAgave;"BakedVegetable,1;BakedFood,1";BakeryOven;;;2a;700;12;2;6;8;15;300;Baking;1;1;;;AgaveLeaves,4;;;;2;;;Charred agave leaves are too fiberous to eat entirely, but you can certainly chew them.;1;;Food;Baking;20
+BakedBeet;"BakedVegetable,1;BakedFood,1";BakeryOven;;;2a;700;8;4;4;12;8;300;Baking;1;1;;;Beet,4;;;;2;;;Baked beets that retain more nutrients than more simple methods of cooking.;1;;Food;Baking;20
+BakedCorn;"BakedVegetable,1;BakedFood,1";BakeryOven;;;2a;700;6;7;6;9;0;300;Baking;1;1;;;Corn,4;;;;2;;BakedCorn;Baked corn that retains more nutrients than more simple methods of cooking.;1;;Food;Baking;20
+BakedHeartOfPalm;"BakedVegetable,1;BakedFood,1";BakeryOven;;;2a;700;12;6;4;6;28;300;Baking;1;1;;;HeartOfPalm,4;;;;2;;BakedHeartsOfPalm;Baked heart of palm that retains more nutrients than more simple methods of cooking.;1;;Food;Baking;20
+BakedMeat;;BakeryOven;;;2b;700;0;13;17;0;28;800;Baking;1;1;;;RawMeat,2;;Tallow,1;;2;;BakedMeat;Baked meat is less fatty than other methods of cooking.;1;;Food;Baking;20
+BakedRoast;BakedFood,1;BakeryOven;;;2b;1000;4;13;10;7;28;900;Baking;2;1;;;RawRoast,1;;Tallow,1;;2;;;A trussed roast baked to perfection.;1;;Food;Baking;20
+BakedTaro;"BakedVegetable,1;BakedFood,1";BakeryOven;;;2a;700;8;6;2;12;28;300;Baking;1;1;;;TaroRoot,4;;;;2;;;Baked taro root;1;;Food;Baking;20
+BakedTomato;"BakedVegetable,1;BakedFood,1";BakeryOven;;;2a;700;9;1;5;13;30;300;Baking;1;1;;;Tomato,4;;;;2;;;Baked tomatoes might not look as red or plump as the raw variety, but they are nice and tasty.;1;;Food;Baking;20
+Bannock;;Campfire;;;1;700;14;3;7;0;34;100;CampfireCooking;1;1;Fat,1;;Wheat,1;;;;0,5;;;A dense whole wheat unleavened bread.;1;;Food;Campfire;20
+BasicSalad;Salad,1;;x;;1;800;18;6;4;10;28;300;;;;;;;;;;;;;A seemingly random assortment of wild plants that form a sort of salad.;1;;Food;Cooking;
+BeanPaste;;Mill;;;0;40;3;5;7;0;28;200;Milling;2;1;;;Beans,6;;;;2;;BeanPaste;Smashed beans can work as a thickener or flavour enhancer.;0,5;;Food;Ingredients;20
+Bearclaw;;BakeryOven;;;2c;850;12;6;21;7;24;300;AdvancedBaking;1;1;;;"PastryDough,1;Sugar,4";;;;3;;;A sweet pastry with seperated sections that look a bit like a claw.;1;;Food;Baking;20
+BearSUPREME;;Stove;;;4;1200;8;20;22;10;38;500;AdvancedCooking;3;1;;;"PrimeCut,4;VegetableMedley,2;MeatStock,2;InfusedOil,2";;;;8;;;Just because the name has 'bear' in it doesn't mean it actually contains bear.;1;;Food;Cooking;20
+Beet;"Vegetable,1;Root,1;Raw Food,1";;;;0;230;2;0;2;4;15;10;;;;;;;;;;;Grassland;;A brilliantly colored bulb with an earthy sweetness.;1;;Food;Produce;
+BeetCampfireSalad;CampfireSalad,1;Campfire;;;1c;900;8;5;4;11;46;200;CampfireCooking;1;1;Fruit,1;;"BeetGreens,1;Beet,1";;;;1;;;A myriad of plants that make a healthy and odd blend.;;;Food;Campfire;20
+BeetGreens;"Greens,1;Raw Food,1";;;;0;100;3;1;0;4;60;10;;;;;;;;;;;Grassland;;The leafy greens from a beet with a distinctive red stem.;1;;Food;Produce;
+BoiledGrains;;Campfire;;;0b;350;9;2;0;1;8;100;CampfireCooking;0;1;;Grain,1;;;;;0,5;;BoiledGrains;A dish of plain boiled grains that can be topped with fruit to make a nice tasting porridge.;0,5;;Food;Charred Food;20
+BoiledRice;;Kitchen;;;4;210;13;2;0;0;28;100;AdvancedCooking;1;1;;;Rice,10;;;;2;;BoiledRice;Soft and fluffy.;1;;Food;Cooking;20
+BoiledSausage;;Stove;;;4;600;0;27;22;0;8;300;AdvancedCooking;2;1;;;"RawSausage,4;MeatStock,4";;;;4;;;Boiled sausages might not be as pretty as grilled ones, but they're still tasty.;1;;Food;Cooking;20
+BoleteMushrooms;"Fungus,1;Raw Food,1";;;;0;200;2;4;1;1;12;10;;;;;;;;;;;Wetland;;Boletus edulis;1;;Food;Produce;
+Bread;Bread,1;BakeryOven;;;3;750;20;5;10;5;15;500;AdvancedBaking;1;1;;;LeavenedDough,1;;;;3;;Bread;A delicious, crispy crust hides the soft interior.;1;;Food;Baking;20
+CamasBread;Bread,1;BakeryOven;;;3;800;15;5;13;9;49;500;AdvancedBaking;1;1;;;"CamasPaste,1;LeavenedDough,1";;;;3;;CamasBread;A bread with a camas twist for a bit of flavor and fun. ;1;;Food;Baking;20
+CamasBulbBake;"BakedVegetable,1;BakedFood,1";BakeryOven;;;2a;700;12;7;5;4;8;300;Baking;1;1;;;CamasBulb,4;;;;2;;;"A spread of evenly baked camas bulbs; soft in the middle, golden brown on the outside.";1;;Food;Baking;20
+CamasPaste;;Mill;;;0;60;3;2;10;0;40;100;Milling;1;1;;;CamasBulb,4;;;;2;;CamasPaste;Pulverized camas works as an excellent thickener or flavour enhancer.;0,5;;Food;Ingredients;20
+CampfireRoast;;Campfire;;;;1000;0;16;12;0;42;500;CampfireCooking;2;1;;;RawRoast,1;;Tallow,1;;1;;;The uneven flame might be mediocre for cooking, but the open flame imparts a great flavor.;1;;Food;Campfire;20
+CampfireSalad;;;;;1c;0;0;0;0;0;28;200;;;;;;;;;;;;;;;x;;;20
+CampfireStew;;;;;1b;1200;5;10;9;4;15;500;;;;;;;;;;;;;A thick stew chock-full of meat, camas, and corn. A suprisingly good combination.;;x;;;20
+CerealGerm;;;;;0;20;5;0;7;3;28;10;;;;;;;;;;;;;A by-product of milling, the germ is the reproductive part of the cereal that germinates.;1;;Food;Ingredients;
+CharredAgave;CharredGreen,1;Campfire;;;0a;350;5;1;3;3;0;100;CampfireCooking;0;1;;;;AgaveLeaves,1;;;0,5;;;Agave leaves that have been charred over a campfire;0,5;;Food;Charred Food;20
+CharredBeans;CharredVegetable,1;Campfire;;;0a;350;1;8;3;0;28;100;CampfireCooking;0;1;;;;Beans,1;;;0,5;;;A mushy mixture that can serve somewhat as a replacement protein in a meatless diet.;0,5;;Food;Charred Food;20
+CharredBeet;CharredVegetable,1;Campfire;;;0a;350;3;0;3;6;15;100;CampfireCooking;0;1;;;;Beet,1;;;0,5;;;Perhaps not the best raw vegetable to char, this beet seems to have held up well enough.;0,5;;Food;Charred Food;20
+CharredCactusFruit;CharredFruit,1;Campfire;;;0a;200;4;0;2;6;12;100;CampfireCooking;0;1;;;;GiantCactusFruit,1;;;0,5;;;Blackened cactus fruit. A favorite of early desert settlers.;0,5;;Food;Charred Food;20
+CharredCamasBulb;CharredVegetable,1;Campfire;;;0a;350;2;3;6;1;12;100;CampfireCooking;0;1;;;;CamasBulb,1;;;0,5;;;A fibrous and sweet treat much like a sweet potato, though slightly blackened over the heat of a campfire.;0,5;;Food;Charred Food;20
+CharredCorn;CharredVegetable,1;Campfire;;;0a;350;7;1;0;4;12;100;CampfireCooking;0;1;;;;Corn,1;;;0,5;;CharredCorn;This piece of corn needs a good slathering of butter to curb that burnt taste.;0,5;;Food;Charred Food;20
+CharredFireweedShoots;CharredGreen,1;Campfire;;;0a;350;5;1;0;6;12;100;CampfireCooking;0;1;;;;FireweedShoots,1;;;0,5;;;It tastes somewhat burnt but at least the fire has removed the bitter taste.;0,5;;Food;Charred Food;20
+CharredFish;;Campfire;;;0a;400;0;10;5;0;12;500;CampfireCooking;0;1;;;;RawFish,1;;;0,5;;CharredFish;At least it doesn't have any scales any more.;0,5;;Food;Charred Food;20
+CharredHeartOfPalm;CharredVegetable,1;Campfire;;;0a;210;6;3;1;2;12;100;CampfireCooking;0;1;;;;HeartOfPalm,1;;;0,5;;CharredHeartsOfPalm;Heart of palm collected fom fallen pineapple trees that have been charred over a campfire.;0,5;;Food;Charred Food;20
+CharredMeat;;Campfire;;;0a;400;0;6;9;0;12;800;CampfireCooking;0;1;;;;RawMeat,1;;;1;;CharredMeat;The blackened surface of this unrecognizable meat is 'golden brown'.;0,5;;Food;Charred Food;20
+CharredMushrooms;CharredVegetable,1;Campfire;;;0a;350;3;6;2;1;15;100;CampfireCooking;0;1;;Fungus,1;;;;;0,5;;;A collection of charred mushrooms. Cooking mushrooms properly can remove some of the toxins.;0,5;;Food;Charred Food;20
+CharredPapaya;CharredFruit,1;Campfire;;;0a;350;3;1;0;8;12;100;CampfireCooking;0;1;;;;Papaya,1;;;0,5;;;Papaya fruit that has been charred over a basic campfire.;0,5;;Food;Charred Food;20
+CharredPineapple;CharredFruit,1;Campfire;;;0a;350;8;1;0;3;15;100;CampfireCooking;0;1;;;;Pineapple,1;;;0,5;;;Pineapple that has been charred over a basic campfire.;0,5;;Food;Charred Food;20
+CharredSausage;;Campfire;;;;700;0;10;14;0;12;500;CampfireCooking;1;1;;;RawSausage,1;;Tallow,1;;0,5;;;The uneven flame might be mediocre for cooking, but the open flame imparts a great flavor.;1;;Food;Charred Food;20
+CharredTaro;CharredVegetable,1;Campfire;;;0a;350;10;1;0;1;12;100;CampfireCooking;0;1;;;;TaroRoot,1;;;0,5;;CharredTaro;Blackened taro root. Not the tastiest meal, but a great source of energy for early rainforest settlers.;0,5;;Food;Charred Food;20
+CharredTomato;CharredVegetable,1;Campfire;;;0a;350;7;1;0;4;12;100;CampfireCooking;0;1;;;;Tomato,1;;;0,5;;;The blackened char on this tomato would contrast well with the red skin if there was any unburt surface left.;0,5;;Food;Charred Food;20
+CO2Canister;;Laboratory;;;5;10;0;0;0;0;24;100;CuttingEdgeCooking;1;1;;;SteelBar,2;;;;8;;;For creating fancy foams!;1;;Food;Ingredients;20
+CookeinaMushrooms;"Fungus,1;Raw Food,1";;;;0;200;2;4;1;1;12;10;;;;;;;;;;;Wetland;;Tiny Cup Mushrooms;1;;Food;Produce;
+Corn;"Vegetable,1;Raw Food,1";;;;0;230;4;1;0;3;12;10;;;;;;;;;;;Grassland;Corn;A warmly colored kernel studded vegetable.;1;;Food;Produce;
+CornFritters;;Stove;;;4;500;15;7;17;8;0;100;AdvancedCooking;1;1;Fat,4;;"Cornmeal,6;Corn,4";;;;2;;CornFritters;These deep fried corn treats are both crispy and delicious.;1;;Food;Cooking;20
+Cornmeal;;Mill;;;0;60;9;3;3;0;8;100;Milling;1;1;;;Corn,4;;CerealGerm,2;;2;;Cornmeal;"Dried and ground corn; it's like a courser flour.";0,5;;Food;Ingredients;20
+CornStarch;;Laboratory;;;5;10;0;0;0;0;8;100;CuttingEdgeCooking;1;1;;;Corn,10;;;;8;;;Obtained from the endosperm of the kernal, cornstarch can be used as a thickening agent for sauces.;1;;Food;Ingredients;20
+CriminiMushrooms;"Fungus,1;Raw Food,1";;;;0;200;2;4;1;1;47;10;;;;;;;;;;;Wetland;;Edible mushrooms that are quite tasty.;1;;Food;Produce;
+CrimsonSalad;;Kitchen;;;4;1100;15;9;12;20;15;400;AdvancedCooking;3;1;;;"BasicSalad,2;InfusedOil,2;CharredBeet,4;Tomato,4";;;;6;;;Just in case you want to eat red things without eating meat.;1;;Food;Cooking;20
+CrispyBacon;;CastIronStove;;;3;800;0;18;26;0;0;400;Cooking;3;1;;;RawBacon,4;;Tallow,4;;4;;CrispyBacon;Give me all the bacon and eggs you have.;1;;Food;Meat;20
+Ecoylent;;;;;0;1500;500;500;500;500;8;0;;;;;;;;;;;;;A complete meal replacement solution.;1;x;;;
+ElkTaco;;Stove;;;4;650;12;15;10;14;56;200;AdvancedCooking;2;1;;;"ScrapMeat,10;Tortilla,2;WildMix,2";;;;6;;;A tasty treat made from corn tortillas and meat.;1;;Food;Cooking;20
+ElkWellington;;BakeryOven;;;3;1400;12;20;22;8;44;500;AdvancedBaking;3;1;;;"LeavenedDough,2;PrimeCut,4";;;;3;;;A prime cut of meat surrounded by pastry.;1;;Food;Baking;20
+FernCampfireSalad;CampfireSalad,1;Campfire;;;1c;900;9;5;1;13;2000;200;CampfireCooking;1;1;Vegetable,1;;"Fiddleheads,1;Huckleberries,1";;;;1;;;A myriad of plants that make a healthy and odd blend.;1;;Food;Campfire;20
+Fiddleheads;"Greens,1;Raw Food,1";;;;0;150;2;1;0;5;51;10;;;;;;;;;;;Forest;Fiddleheads;"A collection of the furled fronds of young ferns; a unique addition to a meal.";1;;Food;Produce;
+FieldCampfireStew;;Campfire;;;1b;1100;10;6;8;4;62;500;CampfireCooking;3;1;Fat,1;;"Corn,1;Tomato,1;ScrapMeat,1";;;;1;;;A thick stew chock-full of meat and charred vegetables. A suprisingly good combination.;1;;Food;Campfire;20
+FireweedShoots;"Greens,1;Raw Food,1";;;;0;150;3;1;0;4;28;10;;;;;;;;;;;Tundra;;A bitter, brightly colored shoot similar to asparagus.;1;;Food;Produce;
+Flatbread;;BakeryOven;;;2;500;17;8;3;2;8;200;Baking;1;1;;;Flour,4;;;;2;;;Without any leavening the flatbread isn't very puffy. But it's still tasty.;1;;Food;Baking;20
+Flour;;Mill;;;0;50;15;0;0;0;28;200;Milling;1;1;;;Wheat,2;;CerealGerm,1;;2;;Flour;A fine, milled wheat product that's useful for all baking.;0,5;;Food;Ingredients;20
+FriedCamas;FriedVegetable,1;Campfire;;;1d;700;9;3;10;2;8;200;CampfireCooking;1;1;Fat,1;;CamasBulb,1;;;;0,5;;;Deep fried Camas. Bit greasy;1;;Food;Campfire;20
+FriedFiddleheads;FriedVegetable,1;Campfire;;;1d;700;11;3;6;4;30;200;CampfireCooking;1;1;Fat,1;;Fiddleheads,1;;;;0,5;;;Secret's in the sauce.;1;;Food;Campfire;20
+FriedHareHaunches;;Stove;;;4;700;6;15;27;4;15;100;AdvancedCooking;2;1;;;"PreparedMeat,4;Flour,8;Oil,4";;;;2;;;Everything is better deep fried.;1;;Food;Cooking;20
+FriedHeartsOfPalm;FriedVegetable,1;Campfire;;;1d;700;11;3;8;2;24;200;CampfireCooking;1;1;Fat,1;;HeartOfPalm,1;;;;0,5;;FriedHeartsOfPalm;Secret's in the sauce.;1;;Food;Campfire;20
+FriedTaro;FriedVegetable,1;Campfire;;;1d;700;14;1;8;1;24;200;CampfireCooking;1;1;Fat,1;;TaroRoot,1;;;;0,5;;FriedTaro;Secret's in the sauce.;1;;Food;Campfire;20
+FriedTomatoes;FriedVegetable,1;Campfire;;;1d;700;11;3;8;2;52;200;CampfireCooking;1;1;Fat,1;;Tomato,1;;;;0,5;;;Secret's in the sauce.;1;;Food;Campfire;20
+FriedVegetables;;;x;;1d;560;11;3;8;2;24;200;;1;1;;;;;;;;;;;1;;;;20
+FruitMuffin;;BakeryOven;;;2d;800;10;5;4;16;24;200;Baking;1;1;Fruit,4;;Flour,4;;;;2;;;A soft, slightly sweet bread studded with juicy fruits.;1;;Food;Baking;20
+FruitSalad;Salad,1;;x;;1;900;12;4;3;19;24;300;;;;;;;;;;;;;While tomatoes are fruits, you don't usually put them in fruit salads.;1;;Food;Cooking;
+FruitTart;;BakeryOven;;;2c;800;14;5;9;20;24;400;AdvancedBaking;1;1;Fruit,4;;PastryDough,1;;;;2;;;A sweet pastry that is great for breakfast or anytime you need a quick boost in energy.;1;;Food;Baking;20
+GiantCactusFruit;"Fruit,1;Raw Food,1";;;;0;100;2;0;2;4;35;10;;;;;;;;;;;Desert;;A bulbous fruit that used to top Saguaro cacti.;1;;Food;Produce;
+HeartOfPalm;"Vegetable,1;Raw Food,1";;;;0;100;4;2;0;2;38;10;;;;;;;;;;;Rainforest;HeartsOfPalm;Collected from the inner core and growing bud of a palm tree.;1;;Food;Produce;
+Huckleberries;"Fruit,1;Raw Food,1";;;;0;150;2;0;0;6;48;10;;;;;;;;;;;Forest;Huckleberries;A handfull of small wild berries. I'm your huckleberry.;1;;Food;Produce;
+HuckleberryExtract;;Mill;;;4;60;0;0;0;15;8;200;Milling;1;1;;;Huckleberries,20;;;;2;;;A concentrated blast of huckleberry goodness.;1;;Food;Ingredients;20
+HuckleberryPie;;BakeryOven;;;2;1300;13;5;10;16;8;600;Baking;3;1;Fat,2;;"Flour,4;Huckleberries,10";;;;2;;;A fantastic combination of flaky crust and scrumptious berries.;1;;Food;Baking;20
+Hydrocolloids;;Laboratory;;;5;10;0;0;0;0;8;100;CuttingEdgeCooking;1;1;;;CornStarch,20;;;;8;;;Used to make collids for bursts of flavor.;1;;Food;Ingredients;20
+InfusedOil;;Kitchen;;;4;120;0;0;12;3;15;100;AdvancedCooking;1;1;;;"Oil,2;HuckleberryExtract,2";;;;2;;InfusedOil;Oil infused with flavor to enhance it.;1;;Food;Ingredients;20
+JungleCampfireSalad;CampfireSalad,1;Campfire;;;1c;900;11;4;3;10;44;200;CampfireCooking;1;1;Greens,1;;"Papaya,1;Pineapple,1";;;;1;;;A myriad of plants that make a healthy and odd blend.;1;;Food;Campfire;20
+JungleCampfireStew;;Campfire;;;1b;1100;6;8;11;3;0;500;CampfireCooking;3;1;"Fat,1;Fungus,1";;"Papaya,1;ScrapMeat,1";;;;1;;;A thick stew chock-full of meat and charred vegetables. A suprisingly good combination.;1;;Food;Campfire;20
+LeavenedDough;;BakeryOven;;;2z;10;6;18;13;5;15;800;AdvancedBaking;1;1;;;"Flour,4;Yeast,1";;;;0,4;;;Leavened dough with added yeast that rises when baked.;1;;Food;Baking;20
+LiquidNitrogen;;Laboratory;;;5;10;0;0;0;0;28;100;CuttingEdgeCooking;1;1;;;SteelBar,2;;;;8;;LiquidNitrogen;Useful for a quick chilling.;1;;Food;Ingredients;20
+Macaroons;;BakeryOven;;;3;850;20;7;14;16;28;200;AdvancedBaking;2;1;;;"PastryDough,2;Sugar,5;HuckleberryExtract,1";;;;3;;Macaroons;A small circular biscuit with a sweet huckleberry filling.;1;;Food;Baking;20
+Maltodextrin;;Laboratory;;;5;10;0;0;0;0;42;100;CuttingEdgeCooking;1;1;;;CornStarch,20;;;;8;;;For powdering high-fat liquids.;1;;Food;Ingredients;20
+MeatPie;;BakeryOven;;;2;1300;11;13;15;5;0;600;Baking;3;1;Fat,2;;"Flour,4;ScrapMeat,12";;;;2;;;Much like a huckleberry pie, but filled to the brim with succulent meat.;1;;Food;Baking;20
+MeatStock;;CastIronStove;;;3;600;3;8;9;0;57;800;Cooking;1;1;;;ScrapMeat,8;;;;8;;;A meaty stock made from the flesh of animals.;1;;Food;Ingredients;20
+MeatyStew;;Campfire;;;1b;1100;4;13;10;1;0;500;CampfireCooking;3;1;Fat,1;;"CharredMeat,2;ScrapMeat,1";;;;1;;;A thick meaty stew. A great source of protein.;1;;Food;Campfire;20
+Milk;;;;;0;120;3;10;7;0;44;10;;;;;;;;;;;;Milk;Milk, although maybe not from an animal.;1;x;;;
+Oil;Fat,1;Mill;;;0;120;0;0;15;0;20;100;Milling;1;1;;;CerealGerm,12;;;4000;2;;Oil;A plant fat extracted for use in cooking.;0,5;;Food;Ingredients;20
+Papaya;"Fruit,1;Raw Food,1";;;;0;200;2;1;0;5;28;10;;;;;;;;;;;Rainforest;;Nice fresh Papaya;1;;Food;Produce;
+PastryDough;;BakeryOven;;;2z;10;4;0;0;4;20;10;AdvancedBaking;1;1;Fat,2;;"Flour,2;Yeast,1";;;;0,4;;;An extra fatty leavened dough for making yummy pastries.;1;;Food;Baking;20
+Pineapple;"Fruit,1;Raw Food,1";;;;0;200;6;0;0;2;15;10;;;;;;;;;;;Rainforest;;Nice fresh Pineapple;1;;Food;Produce;
+PineappleFriendRice;;Kitchen;;;4;620;20;12;12;9;8;150;AdvancedCooking;1;1;;;"CharredPineapple,5;BoiledRice,5;ScrapMeat,10";;;;4;;;A homely recipe made from a mix of cooked rice and fruit. Not only is it friendly, but it also happens to be pan fried.;1;;Food;Cooking;20
+Pirozhok;;BakeryOven;;;2c;850;14;19;10;4;8;400;AdvancedBaking;1;1;Fungus,2;;"PastryDough,1;PreparedMeat,2";;;;3;;Pirozhki;A baked bun filled with tasty meat and mushrooms.;1;;Food;Baking;20
+PreparedMeat;;ButcheryTable;;;1;600;0;4;6;0;8;400;Butchery;2;1;;;RawMeat,4;;ScrapMeat,2;;0,8;;PreparedMeat;Carefully butchered meat, ready to cook.;1;;Food;Meat;20
+PricklyPearFruit;"Fruit,1;Raw Food,1";;;;0;190;2;1;1;4;53;10;;;;;;;;;;;Desert;;A succulent fruit coated in a rather terrifying array of spines.;1;;Food;Produce;
+PrimeCut;;ButcheryTable;;;1;600;0;9;4;0;47;500;Butchery;3;1;;;RawMeat,16;;;;0,8;;;A perfectly marbled piece of meat.;1;;Food;Meat;20
+Pumpkin;"Fruit,1;Raw Food,1";;;;0;340;5;1;0;2;10;100;;;;;;;;;;;Grassland;;Round and large;1;;Food;Produce;
+RawBacon;;ButcheryTable;;;1;200;0;3;9;0;8;50;Butchery;2;1;;;RawMeat,3;;ScrapMeat,4;;0,8;;RawBacon;A fatty cut of meat that happens to be inexplicably tastier than other cuts.;1;;Food;Meat;20
+RawFish;;;;;0;200;0;7;3;0;13;100;;;;;;;;;;;;;A fatty cut of raw fish.;1;;Food;Meat;20
+RawMeat;;;;;0;250;0;4;8;0;8;100;;;;;;;;;;;;RawMeat;Fresh raw meat from the hunt. It should probably be cooked before being consumed.;1;;Food;Meat;20
+RawRoast;;ButcheryTable;;;1;600;0;6;5;0;12;500;Butchery;1;1;;;RawMeat,2;;ScrapMeat,3;;0,8;;;A trussed roast tied and ready to be cooked.;1;;Food;Meat;20
+RawSausage;;ButcheryTable;;;1;500;0;4;8;0;10;300;Butchery;1;1;;;ScrapMeat,3;;Tallow,1;;0,8;;;Ground meat stuffed into an intestine casing.;1;;Food;Meat;20
+RootCampfireSalad;CampfireSalad,1;Campfire;;;1c;950;8;5;4;11;12;200;CampfireCooking;1;1;Greens,1;;"CamasBulb,1;TaroRoot,1";;;;1;;;A myriad of plants that make a healthy and odd blend.;1;;Food;Campfire;20
+RootCampfireStew;;Campfire;;;1b;1100;6;8;9;5;11;500;CampfireCooking;3;1;Fat,1;;"Beet,1;CamasBulb,1;ScrapMeat,1";;;;1;;;A thick stew chock-full of meat and charred vegetables. A suprisingly good combination.;1;;Food;Campfire;20
+ScrapMeat;;ButcheryTable;;;1;50;0;5;5;0;12;10;Butchery;1;3;;;RawMeat,1;;;;0,5;;ScrapMeat;Chunks of extra meat.;1;;Food;Meat;20
+SearedMeat;;Stove;;;4;600;4;19;17;7;28;500;AdvancedCooking;1;1;;;"PrimeCut,2;InfusedOil,2";;;;3;;SearedMeat;A cut of perfectly seared steak.;1;;Food;Cooking;20
+SimmeredMeat;;CastIronStove;;;3;900;6;18;13;5;28;800;Cooking;2;1;;;"PreparedMeat,2;MeatStock,1";;;;4;;SimmeredMeat;Meat cooked in meat juices keeps the meat juicy.;1;;Food;Cooking;20
+SimpleSyrup;;Kitchen;;;4;400;12;0;3;0;10;200;AdvancedCooking;1;1;;;Sugar,10;;;;2;;;A simple water and suger combination heated until the sugar dissolves.;1;;Food;Ingredients;20
+StuffedTurkey;;BakeryOven;;;3;1500;17;20;16;11;47;500;AdvancedBaking;4;1;;;"PrimeCut,4;Bread,1;VegetableMedley,1";;;;4;;;To give thanks for fact that this food items gives two nutrients more than other food at the same tier.;1;;Food;Baking;20
+Sugar;;Mill;;;0;50;15;0;0;0;42;100;Milling;1;1;;;Huckleberries,8;;;;2;;Sugar;Even sweet lovers don't eat sugar plain.;0,5;;Food;Ingredients;20
+SweetSalad;;Kitchen;;;4;1100;18;9;7;22;15;400;AdvancedCooking;3;1;;;"BasicSalad,2;FruitSalad,2;SimpleSyrup,4";;;;6;;;The sweetness of the fruits happens to work well with the salad.;1;;Food;Cooking;20
+Tallow;Fat,1;;;;0;200;0;0;8;0;64;20;;;;;;;;;2000;;;Tallow;Rendered animal fat useful for more than just cooking.;1;;Food;Ingredients;
+TaroRoot;"Vegetable,1;Root,1;Raw Food,1";;;;0;250;6;1;0;1;15;10;;;;;;;;;;;Rainforest;;Colocasia esculenta;1;;Food;Produce;
+Tomato;"Vegetable,1;Raw Food,1";;;;0;240;5;1;0;2;56;10;;;;;;;;;;;Grassland;;"Intelligence is knowing this is a fruit; wisdom is not putting it in a fruit salad.";1;;Food;Produce;
+ToppedPorridge;;Campfire;;;1a;700;10;4;0;10;8;200;CampfireCooking;1;1;Fruit,1;;BoiledGrains,1;;;;1;;ToppedPorridge;A thick gruel of boiled grains with a dash of fruity flavor.;1;;Food;Campfire;20
+Tortilla;;Kitchen;;;4;350;20;10;0;0;8;100;AdvancedCooking;1;1;;;Cornmeal,2;;;;2;;;A thin, unleavened flatbread.;1;;Food;Cooking;20
+Transglutaminase;;Laboratory;;;5;10;0;0;0;0;8;100;CuttingEdgeCooking;1;1;;;ScrapMeat,30;;;;8;;;Any enzyme that can be used to bond proteins together.;1;;Food;Ingredients;20
+VegetableMedley;;;;;1;900;8;4;7;17;24;300;;;;;;;;;;;;;An eclectic arrangement of vegetables.;1;;Food;Cooking;
+VegetableSoup;;CastIronStove;;;3;1200;12;4;7;19;30;900;Cooking;2;1;;;"VegetableStock,1;VegetableMedley,1";;;;4;;;Who knew plants in plant broth could be so tasty?;1;;Food;Cooking;20
+VegetableStock;;CastIronStove;;;3;700;11;1;2;11;0;800;Cooking;1;1;;;VegetableMedley,1;;;;8;;;A hearty stock full of assorted vegetables.;1;;Food;Ingredients;20
+Wheat;"Grain,1;Raw Food,1";;;;0;150;6;2;0;0;36;10;;;;;;;;;;;Grassland;Wheat;A common grain that is significantly more useful processed.;1;;Food;Produce;
+WildMix;;Kitchen;;;4;800;11;8;6;21;42;600;AdvancedCooking;1;1;;;"BasicSalad,2;HuckleberryExtract,2";;;;4;;;A dressed salad that, with the added sweetness, its pretty tasty.;1;;Food;Cooking;20
+WildStew;;Campfire;;;;1100;8;2;6;12;25;500;CampfireCooking;3;1;Vegetable,1;;"Huckleberries,2;Beans,1;Beet,1";;;;1;;;A thick stew made with a variety of vegetables.;1;;Food;Campfire;20
+WiltedFiddleheads;CharredGreen,1;Campfire;;;0a;350;4;1;0;7;8;200;CampfireCooking;0;1;;;;Fiddleheads,1;;;0,5;;WiltedFiddleheads;While a bunch of wilted fiddleheads may seem a bit sad, at least they're nutritious.;0,5;;Food;Charred Food;20
+Yeast;;Mill;;;4;60;0;8;0;7;46;100;Milling;4;1;;;Sugar,2;;;;2;;Yeast;A fungus that acts as an amazing leavening agent.;1;;Food;Ingredients;20

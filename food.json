@@ -1,0 +1,3094 @@
+{
+    "AcornPowder": {
+        "id": 1,
+        "displayName": "Acorn Powder",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 5,
+            "fat": 2,
+            "vitamins": 5,
+            "calories": 40,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "Acorn": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "AgaveLeaves": {
+        "id": 2,
+        "displayName": "Agave Leaves",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 1,
+            "fat": 2,
+            "vitamins": 2,
+            "calories": 200,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "AmanitaMushrooms": {
+        "id": 3,
+        "displayName": "Amanita Mushrooms",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": -200,
+            "total": 0
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "BakedAgave": {
+        "id": 4,
+        "displayName": "Baked Agave",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 2,
+            "fat": 6,
+            "vitamins": 8,
+            "calories": 700,
+            "total": 28
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "AgaveLeaves": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BakedBeet": {
+        "id": 5,
+        "displayName": "Baked Beet",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 4,
+            "fat": 4,
+            "vitamins": 12,
+            "calories": 700,
+            "total": 28
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Beet": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BakedCorn": {
+        "id": 6,
+        "displayName": "Baked Corn",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 7,
+            "fat": 6,
+            "vitamins": 9,
+            "calories": 700,
+            "total": 28
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Corn": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BakedHeartOfPalm": {
+        "id": 7,
+        "displayName": "Baked Heart Of Palm",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 6,
+            "fat": 4,
+            "vitamins": 6,
+            "calories": 700,
+            "total": 28
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "HeartOfPalm": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BakedMeat": {
+        "id": 8,
+        "displayName": "Baked Meat",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 13,
+            "fat": 17,
+            "vitamins": 0,
+            "calories": 700,
+            "total": 30
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "RawMeat": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BakedRoast": {
+        "id": 9,
+        "displayName": "Baked Roast",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 13,
+            "fat": 10,
+            "vitamins": 7,
+            "calories": 1000,
+            "total": 34
+        },
+        "profession": "baking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "RawRoast": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BakedTaro": {
+        "id": 10,
+        "displayName": "Baked Taro",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 6,
+            "fat": 2,
+            "vitamins": 12,
+            "calories": 700,
+            "total": 28
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "TaroRoot": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BakedTomato": {
+        "id": 11,
+        "displayName": "Baked Tomato",
+        "nutrition": {
+            "carbs": 9,
+            "protein": 1,
+            "fat": 5,
+            "vitamins": 13,
+            "calories": 700,
+            "total": 28
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Tomato": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "Bannock": {
+        "id": 12,
+        "displayName": "Bannock",
+        "nutrition": {
+            "carbs": 14,
+            "protein": 3,
+            "fat": 7,
+            "vitamins": 0,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Wheat": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "BasicSalad": {
+        "id": 13,
+        "displayName": "Basic Salad",
+        "nutrition": {
+            "carbs": 18,
+            "protein": 6,
+            "fat": 4,
+            "vitamins": 10,
+            "calories": 800,
+            "total": 38
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "BeanPaste": {
+        "id": 14,
+        "displayName": "Bean Paste",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 5,
+            "fat": 7,
+            "vitamins": 0,
+            "calories": 40,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "Beans": "6"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "Bearclaw": {
+        "id": 15,
+        "displayName": "Bearclaw",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 6,
+            "fat": 21,
+            "vitamins": 7,
+            "calories": 850,
+            "total": 46
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "PastryDough": "1"
+            },
+            {
+                "Sugar": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "BearSUPREME": {
+        "id": 16,
+        "displayName": "Bear SUPREME",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 20,
+            "fat": 22,
+            "vitamins": 10,
+            "calories": 1200,
+            "total": 60
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "PrimeCut": "4"
+            },
+            {
+                "VegetableMedley": "2"
+            },
+            {
+                "MeatStock": "2"
+            },
+            {
+                "InfusedOil": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "stove"
+    },
+    "Beet": {
+        "id": 17,
+        "displayName": "Beet",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 0,
+            "fat": 2,
+            "vitamins": 4,
+            "calories": 230,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "BeetCampfireSalad": {
+        "id": 18,
+        "displayName": "Beet Campfire Salad",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 5,
+            "fat": 4,
+            "vitamins": 11,
+            "calories": 900,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "BeetGreens": "1"
+            },
+            {
+                "Beet": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fruit": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "BeetGreens": {
+        "id": 19,
+        "displayName": "Beet Greens",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 4,
+            "calories": 100,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "BoiledGrains": {
+        "id": 20,
+        "displayName": "Boiled Grains",
+        "nutrition": {
+            "carbs": 9,
+            "protein": 2,
+            "fat": 0,
+            "vitamins": 1,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [
+            {
+                "Grain": "1"
+            }
+        ],
+        "tableKey": "campfire"
+    },
+    "BoiledRice": {
+        "id": 21,
+        "displayName": "Boiled Rice",
+        "nutrition": {
+            "carbs": 13,
+            "protein": 2,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 210,
+            "total": 15
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Rice": "10"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "BoiledSausage": {
+        "id": 22,
+        "displayName": "Boiled Sausage",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 27,
+            "fat": 22,
+            "vitamins": 0,
+            "calories": 600,
+            "total": 49
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "RawSausage": "4"
+            },
+            {
+                "MeatStock": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "stove"
+    },
+    "BoleteMushrooms": {
+        "id": 23,
+        "displayName": "Bolete Mushrooms",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 4,
+            "fat": 1,
+            "vitamins": 1,
+            "calories": 200,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "Bread": {
+        "id": 24,
+        "displayName": "Bread",
+        "nutrition": {
+            "carbs": 20,
+            "protein": 5,
+            "fat": 10,
+            "vitamins": 5,
+            "calories": 750,
+            "total": 40
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "LeavenedDough": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "CamasBread": {
+        "id": 25,
+        "displayName": "Camas Bread",
+        "nutrition": {
+            "carbs": 15,
+            "protein": 5,
+            "fat": 13,
+            "vitamins": 9,
+            "calories": 800,
+            "total": 42
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CamasPaste": "1"
+            },
+            {
+                "LeavenedDough": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "CamasBulbBake": {
+        "id": 26,
+        "displayName": "Camas Bulb Bake",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 7,
+            "fat": 5,
+            "vitamins": 4,
+            "calories": 700,
+            "total": 28
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CamasBulb": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "CamasPaste": {
+        "id": 27,
+        "displayName": "Camas Paste",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 2,
+            "fat": 10,
+            "vitamins": 0,
+            "calories": 60,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CamasBulb": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "CampfireRoast": {
+        "id": 28,
+        "displayName": "Campfire Roast",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 16,
+            "fat": 12,
+            "vitamins": 0,
+            "calories": 1000,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "RawRoast": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CampfireSalad": {
+        "id": 29,
+        "displayName": "Campfire Salad",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 0,
+            "total": 0
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "CampfireStew": {
+        "id": 30,
+        "displayName": "Campfire Stew",
+        "nutrition": {
+            "carbs": 5,
+            "protein": 10,
+            "fat": 9,
+            "vitamins": 4,
+            "calories": 1200,
+            "total": 28
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "CerealGerm": {
+        "id": 31,
+        "displayName": "Cereal Germ",
+        "nutrition": {
+            "carbs": 5,
+            "protein": 0,
+            "fat": 7,
+            "vitamins": 3,
+            "calories": 20,
+            "total": 15
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "CharredAgave": {
+        "id": 32,
+        "displayName": "Charred Agave",
+        "nutrition": {
+            "carbs": 5,
+            "protein": 1,
+            "fat": 3,
+            "vitamins": 3,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "AgaveLeaves": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredBeans": {
+        "id": 33,
+        "displayName": "Charred Beans",
+        "nutrition": {
+            "carbs": 1,
+            "protein": 8,
+            "fat": 3,
+            "vitamins": 0,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "Beans": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredBeet": {
+        "id": 34,
+        "displayName": "Charred Beet",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 0,
+            "fat": 3,
+            "vitamins": 6,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "Beet": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredCactusFruit": {
+        "id": 35,
+        "displayName": "Charred Cactus Fruit",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 0,
+            "fat": 2,
+            "vitamins": 6,
+            "calories": 200,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "GiantCactusFruit": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredCamasBulb": {
+        "id": 36,
+        "displayName": "Charred Camas Bulb",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 3,
+            "fat": 6,
+            "vitamins": 1,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "CamasBulb": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredCorn": {
+        "id": 37,
+        "displayName": "Charred Corn",
+        "nutrition": {
+            "carbs": 7,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 4,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "Corn": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredFireweedShoots": {
+        "id": 38,
+        "displayName": "Charred Fireweed Shoots",
+        "nutrition": {
+            "carbs": 5,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 6,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "FireweedShoots": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredFish": {
+        "id": 39,
+        "displayName": "Charred Fish",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 10,
+            "fat": 5,
+            "vitamins": 0,
+            "calories": 400,
+            "total": 15
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "RawFish": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredHeartOfPalm": {
+        "id": 40,
+        "displayName": "Charred Heart Of Palm",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 3,
+            "fat": 1,
+            "vitamins": 2,
+            "calories": 210,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "HeartOfPalm": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredMeat": {
+        "id": 41,
+        "displayName": "Charred Meat",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 6,
+            "fat": 9,
+            "vitamins": 0,
+            "calories": 400,
+            "total": 15
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "RawMeat": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredMushrooms": {
+        "id": 42,
+        "displayName": "Charred Mushrooms",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 6,
+            "fat": 2,
+            "vitamins": 1,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [
+            {
+                "Fungus": "1"
+            }
+        ],
+        "tableKey": "campfire"
+    },
+    "CharredPapaya": {
+        "id": 43,
+        "displayName": "Charred Papaya",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 8,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "Papaya": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredPineapple": {
+        "id": 44,
+        "displayName": "Charred Pineapple",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 3,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "Pineapple": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredSausage": {
+        "id": 45,
+        "displayName": "Charred Sausage",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 10,
+            "fat": 14,
+            "vitamins": 0,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "RawSausage": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredTaro": {
+        "id": 46,
+        "displayName": "Charred Taro",
+        "nutrition": {
+            "carbs": 10,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 1,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "TaroRoot": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CharredTomato": {
+        "id": 47,
+        "displayName": "Charred Tomato",
+        "nutrition": {
+            "carbs": 7,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 4,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "Tomato": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "CO2Canister": {
+        "id": 48,
+        "displayName": "C O2 Canister",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 10,
+            "total": 0
+        },
+        "profession": "cuttingedgecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "SteelBar": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "laboratory"
+    },
+    "CookeinaMushrooms": {
+        "id": 49,
+        "displayName": "Cookeina Mushrooms",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 4,
+            "fat": 1,
+            "vitamins": 1,
+            "calories": 200,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "Corn": {
+        "id": 50,
+        "displayName": "Corn",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 3,
+            "calories": 230,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "CornFritters": {
+        "id": 51,
+        "displayName": "Corn Fritters",
+        "nutrition": {
+            "carbs": 15,
+            "protein": 7,
+            "fat": 17,
+            "vitamins": 8,
+            "calories": 500,
+            "total": 47
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Cornmeal": "6"
+            },
+            {
+                "Corn": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "4"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "stove"
+    },
+    "Cornmeal": {
+        "id": 52,
+        "displayName": "Cornmeal",
+        "nutrition": {
+            "carbs": 9,
+            "protein": 3,
+            "fat": 3,
+            "vitamins": 0,
+            "calories": 60,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Corn": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "CornStarch": {
+        "id": 53,
+        "displayName": "Corn Starch",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 10,
+            "total": 0
+        },
+        "profession": "cuttingedgecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Corn": "10"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "laboratory"
+    },
+    "CriminiMushrooms": {
+        "id": 54,
+        "displayName": "Crimini Mushrooms",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 4,
+            "fat": 1,
+            "vitamins": 1,
+            "calories": 200,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "CrimsonSalad": {
+        "id": 55,
+        "displayName": "Crimson Salad",
+        "nutrition": {
+            "carbs": 15,
+            "protein": 9,
+            "fat": 12,
+            "vitamins": 20,
+            "calories": 1100,
+            "total": 56
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "BasicSalad": "2"
+            },
+            {
+                "InfusedOil": "2"
+            },
+            {
+                "CharredBeet": "4"
+            },
+            {
+                "Tomato": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "CrispyBacon": {
+        "id": 56,
+        "displayName": "Crispy Bacon",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 18,
+            "fat": 26,
+            "vitamins": 0,
+            "calories": 800,
+            "total": 44
+        },
+        "profession": "cooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "RawBacon": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "castironstove"
+    },
+    "Ecoylent": {
+        "id": 57,
+        "displayName": "Ecoylent",
+        "nutrition": {
+            "carbs": 500,
+            "protein": 500,
+            "fat": 500,
+            "vitamins": 500,
+            "calories": 1500,
+            "total": 2000
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "ElkTaco": {
+        "id": 58,
+        "displayName": "Elk Taco",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 15,
+            "fat": 10,
+            "vitamins": 14,
+            "calories": 650,
+            "total": 51
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "ScrapMeat": "10"
+            },
+            {
+                "Tortilla": "2"
+            },
+            {
+                "WildMix": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "stove"
+    },
+    "ElkWellington": {
+        "id": 59,
+        "displayName": "Elk Wellington",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 20,
+            "fat": 22,
+            "vitamins": 8,
+            "calories": 1400,
+            "total": 62
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "LeavenedDough": "2"
+            },
+            {
+                "PrimeCut": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "FernCampfireSalad": {
+        "id": 60,
+        "displayName": "Fern Campfire Salad",
+        "nutrition": {
+            "carbs": 9,
+            "protein": 5,
+            "fat": 1,
+            "vitamins": 13,
+            "calories": 900,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Fiddleheads": "1"
+            },
+            {
+                "Huckleberries": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Vegetable": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "Fiddleheads": {
+        "id": 61,
+        "displayName": "Fiddleheads",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 5,
+            "calories": 150,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "FieldCampfireStew": {
+        "id": 62,
+        "displayName": "Field Campfire Stew",
+        "nutrition": {
+            "carbs": 10,
+            "protein": 6,
+            "fat": 8,
+            "vitamins": 4,
+            "calories": 1100,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "Corn": "1"
+            },
+            {
+                "Tomato": "1"
+            },
+            {
+                "ScrapMeat": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "FireweedShoots": {
+        "id": 63,
+        "displayName": "Fireweed Shoots",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 4,
+            "calories": 150,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "Flatbread": {
+        "id": 64,
+        "displayName": "Flatbread",
+        "nutrition": {
+            "carbs": 17,
+            "protein": 8,
+            "fat": 3,
+            "vitamins": 2,
+            "calories": 500,
+            "total": 30
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Flour": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "Flour": {
+        "id": 65,
+        "displayName": "Flour",
+        "nutrition": {
+            "carbs": 15,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 50,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Wheat": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "FriedCamas": {
+        "id": 66,
+        "displayName": "Fried Camas",
+        "nutrition": {
+            "carbs": 9,
+            "protein": 3,
+            "fat": 10,
+            "vitamins": 2,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CamasBulb": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "FriedFiddleheads": {
+        "id": 67,
+        "displayName": "Fried Fiddleheads",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 3,
+            "fat": 6,
+            "vitamins": 4,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Fiddleheads": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "FriedHareHaunches": {
+        "id": 68,
+        "displayName": "Fried Hare Haunches",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 15,
+            "fat": 27,
+            "vitamins": 4,
+            "calories": 700,
+            "total": 52
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "PreparedMeat": "4"
+            },
+            {
+                "Flour": "8"
+            },
+            {
+                "Oil": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "stove"
+    },
+    "FriedHeartsOfPalm": {
+        "id": 69,
+        "displayName": "Fried Hearts Of Palm",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 3,
+            "fat": 8,
+            "vitamins": 2,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "HeartOfPalm": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "FriedTaro": {
+        "id": 70,
+        "displayName": "Fried Taro",
+        "nutrition": {
+            "carbs": 14,
+            "protein": 1,
+            "fat": 8,
+            "vitamins": 1,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "TaroRoot": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "FriedTomatoes": {
+        "id": 71,
+        "displayName": "Fried Tomatoes",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 3,
+            "fat": 8,
+            "vitamins": 2,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Tomato": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "FriedVegetables": {
+        "id": 72,
+        "displayName": "Fried Vegetables",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 3,
+            "fat": 8,
+            "vitamins": 2,
+            "calories": 560,
+            "total": 24
+        },
+        "profession": "",
+        "professionLevel": "1",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "FruitMuffin": {
+        "id": 73,
+        "displayName": "Fruit Muffin",
+        "nutrition": {
+            "carbs": 10,
+            "protein": 5,
+            "fat": 4,
+            "vitamins": 16,
+            "calories": 800,
+            "total": 35
+        },
+        "profession": "baking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Flour": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fruit": "4"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "FruitSalad": {
+        "id": 74,
+        "displayName": "Fruit Salad",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 4,
+            "fat": 3,
+            "vitamins": 19,
+            "calories": 900,
+            "total": 38
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "FruitTart": {
+        "id": 75,
+        "displayName": "Fruit Tart",
+        "nutrition": {
+            "carbs": 14,
+            "protein": 5,
+            "fat": 9,
+            "vitamins": 20,
+            "calories": 800,
+            "total": 48
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "PastryDough": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fruit": "4"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "GiantCactusFruit": {
+        "id": 76,
+        "displayName": "Giant Cactus Fruit",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 0,
+            "fat": 2,
+            "vitamins": 4,
+            "calories": 100,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "HeartOfPalm": {
+        "id": 77,
+        "displayName": "Heart Of Palm",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 2,
+            "fat": 0,
+            "vitamins": 2,
+            "calories": 100,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "Huckleberries": {
+        "id": 78,
+        "displayName": "Huckleberries",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 6,
+            "calories": 150,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "HuckleberryExtract": {
+        "id": 79,
+        "displayName": "Huckleberry Extract",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 15,
+            "calories": 60,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Huckleberries": "20"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "HuckleberryPie": {
+        "id": 80,
+        "displayName": "Huckleberry Pie",
+        "nutrition": {
+            "carbs": 13,
+            "protein": 5,
+            "fat": 10,
+            "vitamins": 16,
+            "calories": 1300,
+            "total": 44
+        },
+        "profession": "baking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "Flour": "4"
+            },
+            {
+                "Huckleberries": "10"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "2"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "Hydrocolloids": {
+        "id": 81,
+        "displayName": "Hydrocolloids",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 10,
+            "total": 0
+        },
+        "profession": "cuttingedgecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CornStarch": "20"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "laboratory"
+    },
+    "InfusedOil": {
+        "id": 82,
+        "displayName": "Infused Oil",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 12,
+            "vitamins": 3,
+            "calories": 120,
+            "total": 15
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Oil": "2"
+            },
+            {
+                "HuckleberryExtract": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "JungleCampfireSalad": {
+        "id": 83,
+        "displayName": "Jungle Campfire Salad",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 4,
+            "fat": 3,
+            "vitamins": 10,
+            "calories": 900,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Papaya": "1"
+            },
+            {
+                "Pineapple": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Greens": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "JungleCampfireStew": {
+        "id": 84,
+        "displayName": "Jungle Campfire Stew",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 8,
+            "fat": 11,
+            "vitamins": 3,
+            "calories": 1100,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "Papaya": "1"
+            },
+            {
+                "ScrapMeat": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            },
+            {
+                "Fungus": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "LeavenedDough": {
+        "id": 85,
+        "displayName": "Leavened Dough",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 18,
+            "fat": 13,
+            "vitamins": 5,
+            "calories": 10,
+            "total": 42
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Flour": "4"
+            },
+            {
+                "Yeast": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "LiquidNitrogen": {
+        "id": 86,
+        "displayName": "Liquid Nitrogen",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 10,
+            "total": 0
+        },
+        "profession": "cuttingedgecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "SteelBar": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "laboratory"
+    },
+    "Macaroons": {
+        "id": 87,
+        "displayName": "Macaroons",
+        "nutrition": {
+            "carbs": 20,
+            "protein": 7,
+            "fat": 14,
+            "vitamins": 16,
+            "calories": 850,
+            "total": 57
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "PastryDough": "2"
+            },
+            {
+                "Sugar": "5"
+            },
+            {
+                "HuckleberryExtract": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "Maltodextrin": {
+        "id": 88,
+        "displayName": "Maltodextrin",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 10,
+            "total": 0
+        },
+        "profession": "cuttingedgecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CornStarch": "20"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "laboratory"
+    },
+    "MeatPie": {
+        "id": 89,
+        "displayName": "Meat Pie",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 13,
+            "fat": 15,
+            "vitamins": 5,
+            "calories": 1300,
+            "total": 44
+        },
+        "profession": "baking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "Flour": "4"
+            },
+            {
+                "ScrapMeat": "12"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "2"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "MeatStock": {
+        "id": 90,
+        "displayName": "Meat Stock",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 8,
+            "fat": 9,
+            "vitamins": 0,
+            "calories": 600,
+            "total": 20
+        },
+        "profession": "cooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "ScrapMeat": "8"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "castironstove"
+    },
+    "MeatyStew": {
+        "id": 91,
+        "displayName": "Meaty Stew",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 13,
+            "fat": 10,
+            "vitamins": 1,
+            "calories": 1100,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "CharredMeat": "2"
+            },
+            {
+                "ScrapMeat": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "Milk": {
+        "id": 92,
+        "displayName": "Milk",
+        "nutrition": {
+            "carbs": 3,
+            "protein": 10,
+            "fat": 7,
+            "vitamins": 0,
+            "calories": 120,
+            "total": 20
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "Oil": {
+        "id": 93,
+        "displayName": "Oil",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 15,
+            "vitamins": 0,
+            "calories": 120,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CerealGerm": "12"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "Papaya": {
+        "id": 94,
+        "displayName": "Papaya",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 5,
+            "calories": 200,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "PastryDough": {
+        "id": 95,
+        "displayName": "Pastry Dough",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 4,
+            "calories": 10,
+            "total": 8
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Flour": "2"
+            },
+            {
+                "Yeast": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "2"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "Pineapple": {
+        "id": 96,
+        "displayName": "Pineapple",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 2,
+            "calories": 200,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "PineappleFriendRice": {
+        "id": 97,
+        "displayName": "Pineapple Friend Rice",
+        "nutrition": {
+            "carbs": 20,
+            "protein": 12,
+            "fat": 12,
+            "vitamins": 9,
+            "calories": 620,
+            "total": 53
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CharredPineapple": "5"
+            },
+            {
+                "BoiledRice": "5"
+            },
+            {
+                "ScrapMeat": "10"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "Pirozhok": {
+        "id": 98,
+        "displayName": "Pirozhok",
+        "nutrition": {
+            "carbs": 14,
+            "protein": 19,
+            "fat": 10,
+            "vitamins": 4,
+            "calories": 850,
+            "total": 47
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "PastryDough": "1"
+            },
+            {
+                "PreparedMeat": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fungus": "2"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "PreparedMeat": {
+        "id": 99,
+        "displayName": "Prepared Meat",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 4,
+            "fat": 6,
+            "vitamins": 0,
+            "calories": 600,
+            "total": 10
+        },
+        "profession": "butchery",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "RawMeat": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "butcherytable"
+    },
+    "PricklyPearFruit": {
+        "id": 100,
+        "displayName": "Prickly Pear Fruit",
+        "nutrition": {
+            "carbs": 2,
+            "protein": 1,
+            "fat": 1,
+            "vitamins": 4,
+            "calories": 190,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "PrimeCut": {
+        "id": 101,
+        "displayName": "Prime Cut",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 9,
+            "fat": 4,
+            "vitamins": 0,
+            "calories": 600,
+            "total": 13
+        },
+        "profession": "butchery",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "RawMeat": "16"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "butcherytable"
+    },
+    "Pumpkin": {
+        "id": 102,
+        "displayName": "Pumpkin",
+        "nutrition": {
+            "carbs": 5,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 2,
+            "calories": 340,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "RawBacon": {
+        "id": 103,
+        "displayName": "Raw Bacon",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 3,
+            "fat": 9,
+            "vitamins": 0,
+            "calories": 200,
+            "total": 12
+        },
+        "profession": "butchery",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "RawMeat": "3"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "butcherytable"
+    },
+    "RawFish": {
+        "id": 104,
+        "displayName": "Raw Fish",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 7,
+            "fat": 3,
+            "vitamins": 0,
+            "calories": 200,
+            "total": 10
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "RawMeat": {
+        "id": 105,
+        "displayName": "Raw Meat",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 4,
+            "fat": 8,
+            "vitamins": 0,
+            "calories": 250,
+            "total": 12
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "RawRoast": {
+        "id": 106,
+        "displayName": "Raw Roast",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 6,
+            "fat": 5,
+            "vitamins": 0,
+            "calories": 600,
+            "total": 11
+        },
+        "profession": "butchery",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "RawMeat": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "butcherytable"
+    },
+    "RawSausage": {
+        "id": 107,
+        "displayName": "Raw Sausage",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 4,
+            "fat": 8,
+            "vitamins": 0,
+            "calories": 500,
+            "total": 12
+        },
+        "profession": "butchery",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "ScrapMeat": "3"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "butcherytable"
+    },
+    "RootCampfireSalad": {
+        "id": 108,
+        "displayName": "Root Campfire Salad",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 5,
+            "fat": 4,
+            "vitamins": 11,
+            "calories": 950,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "CamasBulb": "1"
+            },
+            {
+                "TaroRoot": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Greens": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "RootCampfireStew": {
+        "id": 109,
+        "displayName": "Root Campfire Stew",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 8,
+            "fat": 9,
+            "vitamins": 5,
+            "calories": 1100,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "Beet": "1"
+            },
+            {
+                "CamasBulb": "1"
+            },
+            {
+                "ScrapMeat": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fat": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "ScrapMeat": {
+        "id": 110,
+        "displayName": "Scrap Meat",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 5,
+            "fat": 5,
+            "vitamins": 0,
+            "calories": 50,
+            "total": 10
+        },
+        "profession": "butchery",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "RawMeat": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "butcherytable"
+    },
+    "SearedMeat": {
+        "id": 111,
+        "displayName": "Seared Meat",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 19,
+            "fat": 17,
+            "vitamins": 7,
+            "calories": 600,
+            "total": 47
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "PrimeCut": "2"
+            },
+            {
+                "InfusedOil": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "stove"
+    },
+    "SimmeredMeat": {
+        "id": 112,
+        "displayName": "Simmered Meat",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 18,
+            "fat": 13,
+            "vitamins": 5,
+            "calories": 900,
+            "total": 42
+        },
+        "profession": "cooking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "PreparedMeat": "2"
+            },
+            {
+                "MeatStock": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "castironstove"
+    },
+    "SimpleSyrup": {
+        "id": 113,
+        "displayName": "Simple Syrup",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 0,
+            "fat": 3,
+            "vitamins": 0,
+            "calories": 400,
+            "total": 15
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Sugar": "10"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "StuffedTurkey": {
+        "id": 114,
+        "displayName": "Stuffed Turkey",
+        "nutrition": {
+            "carbs": 17,
+            "protein": 20,
+            "fat": 16,
+            "vitamins": 11,
+            "calories": 1500,
+            "total": 64
+        },
+        "profession": "advancedbaking",
+        "professionLevel": "4",
+        "ingridients": [
+            {
+                "PrimeCut": "4"
+            },
+            {
+                "Bread": "1"
+            },
+            {
+                "VegetableMedley": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "bakeryoven"
+    },
+    "Sugar": {
+        "id": 115,
+        "displayName": "Sugar",
+        "nutrition": {
+            "carbs": 15,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 50,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Huckleberries": "8"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    },
+    "SweetSalad": {
+        "id": 116,
+        "displayName": "Sweet Salad",
+        "nutrition": {
+            "carbs": 18,
+            "protein": 9,
+            "fat": 7,
+            "vitamins": 22,
+            "calories": 1100,
+            "total": 56
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "BasicSalad": "2"
+            },
+            {
+                "FruitSalad": "2"
+            },
+            {
+                "SimpleSyrup": "4"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "Tallow": {
+        "id": 117,
+        "displayName": "Tallow",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 8,
+            "vitamins": 0,
+            "calories": 200,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "TaroRoot": {
+        "id": 118,
+        "displayName": "Taro Root",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 1,
+            "calories": 250,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "Tomato": {
+        "id": 119,
+        "displayName": "Tomato",
+        "nutrition": {
+            "carbs": 5,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 2,
+            "calories": 240,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "ToppedPorridge": {
+        "id": 120,
+        "displayName": "Topped Porridge",
+        "nutrition": {
+            "carbs": 10,
+            "protein": 4,
+            "fat": 0,
+            "vitamins": 10,
+            "calories": 700,
+            "total": 24
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "BoiledGrains": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Fruit": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "Tortilla": {
+        "id": 121,
+        "displayName": "Tortilla",
+        "nutrition": {
+            "carbs": 20,
+            "protein": 10,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 350,
+            "total": 30
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "Cornmeal": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "Transglutaminase": {
+        "id": 122,
+        "displayName": "Transglutaminase",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 0,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 10,
+            "total": 0
+        },
+        "profession": "cuttingedgecooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "ScrapMeat": "30"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "laboratory"
+    },
+    "VegetableMedley": {
+        "id": 123,
+        "displayName": "Vegetable Medley",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 4,
+            "fat": 7,
+            "vitamins": 17,
+            "calories": 900,
+            "total": 36
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "VegetableSoup": {
+        "id": 124,
+        "displayName": "Vegetable Soup",
+        "nutrition": {
+            "carbs": 12,
+            "protein": 4,
+            "fat": 7,
+            "vitamins": 19,
+            "calories": 1200,
+            "total": 42
+        },
+        "profession": "cooking",
+        "professionLevel": "2",
+        "ingridients": [
+            {
+                "VegetableStock": "1"
+            },
+            {
+                "VegetableMedley": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "castironstove"
+    },
+    "VegetableStock": {
+        "id": 125,
+        "displayName": "Vegetable Stock",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 1,
+            "fat": 2,
+            "vitamins": 11,
+            "calories": 700,
+            "total": 25
+        },
+        "profession": "cooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "VegetableMedley": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "castironstove"
+    },
+    "Wheat": {
+        "id": 126,
+        "displayName": "Wheat",
+        "nutrition": {
+            "carbs": 6,
+            "protein": 2,
+            "fat": 0,
+            "vitamins": 0,
+            "calories": 150,
+            "total": 8
+        },
+        "profession": "",
+        "professionLevel": "",
+        "ingridients": [],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": ""
+    },
+    "WildMix": {
+        "id": 127,
+        "displayName": "Wild Mix",
+        "nutrition": {
+            "carbs": 11,
+            "protein": 8,
+            "fat": 6,
+            "vitamins": 21,
+            "calories": 800,
+            "total": 46
+        },
+        "profession": "advancedcooking",
+        "professionLevel": "1",
+        "ingridients": [
+            {
+                "BasicSalad": "2"
+            },
+            {
+                "HuckleberryExtract": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "kitchen"
+    },
+    "WildStew": {
+        "id": 128,
+        "displayName": "Wild Stew",
+        "nutrition": {
+            "carbs": 8,
+            "protein": 2,
+            "fat": 6,
+            "vitamins": 12,
+            "calories": 1100,
+            "total": 28
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "3",
+        "ingridients": [
+            {
+                "Huckleberries": "2"
+            },
+            {
+                "Beans": "1"
+            },
+            {
+                "Beet": "1"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [
+            {
+                "Vegetable": "1"
+            }
+        ],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "WiltedFiddleheads": {
+        "id": 129,
+        "displayName": "Wilted Fiddleheads",
+        "nutrition": {
+            "carbs": 4,
+            "protein": 1,
+            "fat": 0,
+            "vitamins": 7,
+            "calories": 350,
+            "total": 12
+        },
+        "profession": "campfirecooking",
+        "professionLevel": "0",
+        "ingridients": [],
+        "ingridients_static": [
+            {
+                "Fiddleheads": "1"
+            }
+        ],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "campfire"
+    },
+    "Yeast": {
+        "id": 130,
+        "displayName": "Yeast",
+        "nutrition": {
+            "carbs": 0,
+            "protein": 8,
+            "fat": 0,
+            "vitamins": 7,
+            "calories": 60,
+            "total": 15
+        },
+        "profession": "milling",
+        "professionLevel": "4",
+        "ingridients": [
+            {
+                "Sugar": "2"
+            }
+        ],
+        "ingridients_static": [],
+        "tags": [],
+        "tags_static": [],
+        "tableKey": "mill"
+    }
+}
